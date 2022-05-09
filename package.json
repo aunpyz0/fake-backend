@@ -1,0 +1,5 @@
+{
+	"scripts": {
+		"action": "node action.js"
+	}
+}
